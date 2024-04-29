@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-29T12:25:09 CDT" name="Default suite" finished-at="2024-04-29T12:25:12 CDT" duration-ms="3275">
+    <groups>
+    </groups>
+    <test started-at="2024-04-29T12:25:09 CDT" name="Default test" finished-at="2024-04-29T12:25:12 CDT" duration-ms="3275">
+      <class name="testCases.CreateOneAcount">
+        <test-method signature="createOneAccount()[pri:1, instance:testCases.CreateOneAcount@2b0dc227]" started-at="2024-04-29T12:25:09 CDT" name="createOneAccount" finished-at="2024-04-29T12:25:10 CDT" duration-ms="842" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOneAccount -->
+        <test-method signature="readAllAccounts()[pri:2, instance:testCases.CreateOneAcount@2b0dc227]" started-at="2024-04-29T12:25:10 CDT" name="readAllAccounts" finished-at="2024-04-29T12:25:11 CDT" duration-ms="1194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readAllAccounts -->
+        <test-method signature="readOneAccount()[pri:3, instance:testCases.CreateOneAcount@2b0dc227]" started-at="2024-04-29T12:25:11 CDT" name="readOneAccount" finished-at="2024-04-29T12:25:12 CDT" duration-ms="1192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readOneAccount -->
+      </class> <!-- testCases.CreateOneAcount -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
